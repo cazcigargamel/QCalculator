@@ -35,7 +35,7 @@ private:
     QList<Equation*> m_list;
     void init();
     Equation *getLast();
-    void updateValue();
+    void updateValue(QString data);
     void updateAction(Equation::Action action);
     void setupUI();
 
