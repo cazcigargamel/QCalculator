@@ -3,6 +3,8 @@ QT Framework beginner level programmatic GUI programming
 
 ![screenshot](https://github.com/cazcigargamel/QCalculator/blob/master/images/shot1.png)
 
+![gif](https://github.com/cazcigargamel/QCalculator/blob/master/Screencast/qCalculator.gif)
+
 ## Adding UI elements to Dialog class
 
 ``` C++
@@ -14,6 +16,9 @@ QT Framework beginner level programmatic GUI programming
     QPushButton *btnRow = new QPushButton("Add Equation", this);
     
 ```    
+
+
+
 # Programming Language
 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
